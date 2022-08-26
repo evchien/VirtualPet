@@ -7,6 +7,7 @@ void draw()
 {
   stroke(0);
   fill(0);
+  smooth();
   ellipse(200,140,125,125); //head
   ellipse(200,250,200,230); //body
   fill(163,33,33);
